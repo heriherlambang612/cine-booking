@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765658038570",
+    "project_id": "cinebooking-a9550",
+    "storage_bucket": "cinebooking-a9550.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765658038570:android:633c9417e44a620a6d5e53",
+        "android_client_info": {
+          "package_name": "com.example.cinebooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP9omUFX47RX-IK9fNQIoxmAK7cHyU_Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
